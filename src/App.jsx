@@ -1,9 +1,11 @@
+import Directory from './components/directory/Directory';
+
 function App() {
   return (
     <>
-      <div>cos</div>
+      <Directory />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
